@@ -15,6 +15,6 @@ This will start the notebook engine in your browser with a list of the available
 Online version of the notebooks
 ------------------------------------
 
-* [Part 1 - Intro]()
-* [Part 2 - Scipy]()
-* [Part 3 - Numpy]()
+* [Part 1 - Intro](http://nbviewer.ipython.org/github/bretonr/Python4Astro/blob/master/2014-PG-Lecture-Part-1-Intro.ipynb)
+* [Part 2 - Scipy](http://nbviewer.ipython.org/github/bretonr/Python4Astro/blob/master/2014-PG-Lecture-Part-2-Scipy.ipynb)
+* [Part 3 - Numpy](http://nbviewer.ipython.org/github/bretonr/Python4Astro/blob/master/2014-PG-Lecture-Part-3-Numpy.ipynb)
